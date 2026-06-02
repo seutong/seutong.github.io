@@ -21,7 +21,7 @@ I am a Ph.D. candidate in Transportation Engineering at [Southeast University (S
 📚 Publications
 ----
 
-[【1】](https://seutong.github.io/files/MASC Joint motion-aware and VLM-semantic augmentation for contextual traffic anomaly detection.pdf) Tong, H., Xu, C., Yang, D., Ai, Q., Chen, H., & Lai, H. (2026). MASC: Joint Motion-Aware and VLM-Semantic Augmentation for Contextual Traffic Anomaly Detection. Pattern Recognition, 113952.
+[【1】](https://seutong.github.io/files/MASC.pdf) Tong, H., Xu, C., Yang, D., Ai, Q., Chen, H., & Lai, H. (2026). MASC: Joint Motion-Aware and VLM-Semantic Augmentation for Contextual Traffic Anomaly Detection. Pattern Recognition, 113952.
 
 【2】Tong, H., Xu, C., Ai, Q., Peng, C., Ren, W., & Wang, C. (2025). Autonomous intersection management: graph-reinforcement learning method based on road information enhancement. Transportmetrica A: Transport Science, 1-27.
 
