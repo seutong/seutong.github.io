@@ -50,6 +50,11 @@
 
 .page__content {
 
+  h2[id],
+  .anchor-target {
+    scroll-margin-top: 5.5rem;
+  }
+
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid var(--global-border-color);

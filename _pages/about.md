@@ -7,19 +7,21 @@ redirect_from:
   - /about.html
 ---
 
+<div id="about" class="anchor-target"></div>
+
 I am a Ph.D. candidate in Transportation Engineering at [Southeast University (SEU)](https://www.seu.edu.cn/english/) in Nanjing, China. My supervisor at Southeast University is [Prof. Chengcheng Xu](https://scholar.google.com/citations?user=LzmJ1nkAAAAJ&hl=en). 
 
-👀 Research Interests
-----
+## 👀 Research Interests
+{: #research-interests }
 
-🎓 Education
-----
+## 🎓 Education
+{: #education }
 
-💼 Projects
-----
+## 💼 Projects
+{: #projects }
 
-📚 Publications
-----
+## 📚 Publications
+{: #publications }
 
 [【1】](https://seutong.github.io/files/paper1.pdf) Tong, H., Xu, C., Yang, D., Ai, Q., Chen, H., & Lai, H. (2026). MASC: Joint Motion-Aware and VLM-Semantic Augmentation for Contextual Traffic Anomaly Detection. Pattern Recognition, 113952.
 
@@ -27,5 +29,5 @@ I am a Ph.D. candidate in Transportation Engineering at [Southeast University (S
 
 [【3】](https://seutong.github.io/files/paper3.pdf)Tong, H., Xu, C., Ai, Q., Ren, W., Wang, C., Peng, C., & Jiao, Y. (2025). Developing a jam-absorption strategy for mixed traffic flow at signalized intersections using deep reinforcement learning. Transportation Letters, 17(7), 1251-1262.
 
-🔧🔨Technical Skills
-----
+## 🔧 Technical Skills
+{: #technical-skills }
