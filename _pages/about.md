@@ -33,5 +33,7 @@ I am a Ph.D. candidate in Transportation Engineering at [Southeast University (S
 
 【5】 [Ai, Q.](https://eichqi.github.io/), Xu, C., Tong, H., Wen, H., Peng, C., & Levin, M. (2026). An integrated resilience dynamic assessment framework for urban road transportation systems under daily disruptions. Journal of Cleaner Production, 552, 147987.
 
+[【6】](https://seutong.github.io/files/physicaA.pdf) Tong, H., & Ai, Q. (2026). A deep spatio-temporal Graph Attention Network to learn nonlinear operators for traffic prediction. Physica A: Statistical Mechanics and its Applications, 697, 131741.
+
 ## 🔧 Technical Skills
 {: #technical-skills }
